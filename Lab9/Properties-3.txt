@@ -1,0 +1,6 @@
+T_amb     21 deg C
+P_atm     660 mmHg  
+Del_P_dynm   .083 mm Hg
+V       36.34 V
+R       157.7 ohm
+Fan     12 Hz

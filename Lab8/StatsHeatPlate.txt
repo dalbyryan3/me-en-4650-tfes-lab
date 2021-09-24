@@ -1,0 +1,13 @@
+              Statistic [units]                          Box 1                               
+                     Mean [°C]                           34.9                               
+                Std. Dev. [°C]                            4.4                               
+                   Center [°C]            (185.5, 133.5) 33.9                               
+                  Maximum [°C]                (280, 213) 45.1                               
+                  Minimum [°C]                (173,  38) 23.5                               
+               Number of Pixels                          36864                               
+       Single Pixel Area [cm²]                         0.0058                               
+                    Area [cm²]                          212.6                               
+                    Length [cm]                            N/A                               
+                     Emissivity                           0.95                               
+                   Distance [m]                          0.568                               
+                                                                                             
